@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I'm MD Zahed Ali Salman, a CSE undergraduate passionate about Data Science, AI, and building impactful solutions through technology.</p>
+<p align="left">Hi, I'm Md Zahed Ali Salman, a CSE undergraduate passionate about Data Science, AI, and building impactful solutions through technology.</p>
 
 ###
 
